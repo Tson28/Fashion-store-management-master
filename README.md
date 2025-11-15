@@ -62,4 +62,3 @@ Phạm vi của dự án
 
 **Repository:** [https://github.com/Tson28/Fashion-store-management-master.git](https://github.com/Tson28/Fashion-store-management-master.git)
 
-
